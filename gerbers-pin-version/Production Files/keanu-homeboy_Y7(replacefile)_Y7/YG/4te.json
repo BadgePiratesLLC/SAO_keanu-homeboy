@@ -1,0 +1,65 @@
+{
+	"backOrderType" : -1,
+	"backSingleFlag" : false,
+	"board_type" : "FR-4",
+	"color_screen_printing" : false,
+	"color_sm" : "白",
+	"color_ss" : "黑色",
+	"coverlayColor" : "黄色",
+	"cu_inner" : 1.0,
+	"cu_outer" : 1.0,
+	"dir_input" : "",
+	"earthing" : 0,
+	"eda_type" : "KiCAD",
+	"finished" : "沉金",
+	"freedMaterailFlag" : false,
+	"gold_finger_bevel" : 0,
+	"halfhole" : 0,
+	"isMadeSmt" : false,
+	"is_octagonal_pad" : 0,
+	"layers" : 2,
+	"orderReinforceList" : 
+	[
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 3
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 1
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 4
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 2
+		}
+	],
+	"orderRemark" : "[在指定位置加客编]客编放工艺边.用邮票孔连接位拼;{【拼版方式：3*2】,【按原稿资料为基准,X方向(3.29): 3个 ,Y方向(5.04):2个】, 需要工艺边(加四条 5mm工艺边);20大片120小片}",
+	"orig_type" : "未知",
+	"paiclMoney" : 410.33999999999997,
+	"pcbFileName" : "keanu-homeboy_Y7(replacefile)",
+	"po" : "7973051A_Y7",
+	"po_id" : 0,
+	"print_customer_code" : 2,
+	"print_date_info" : 0,
+	"profile_layer" : "",
+	"profile_type" : 1,
+	"qrCodeFlag" : false,
+	"qrCodeSize" : 0,
+	"qr_code_position" : 0,
+	"realSmtQrCodeSize" : 0,
+	"reinforceWithSilkscreenFlag" : 0,
+	"shippingMethod" : 3,
+	"size_x" : 11.68,
+	"size_y" : 11.68,
+	"small_batch" : false,
+	"smtProcessRoute" : 1,
+	"smtSerialFlag" : 0,
+	"thickness" : 1.6000000000000001,
+	"thirdPartyPuzzleFlag" : false,
+	"trace_code_print_type" : 0,
+	"via" : "过孔盖油"
+}
