@@ -1,0 +1,3 @@
+[submodule "lib/BadgePirates_Common_Library"]
+	path = lib/BadgePirates_Common_Library
+	url = https://github.com/BadgePiratesLLC/BadgePirates_Common_Library

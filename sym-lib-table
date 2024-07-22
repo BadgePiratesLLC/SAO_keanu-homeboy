@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BadgePiratesSymbols")(type "KiCad")(uri "${KIPRJMOD}/lib/BadgePirates_Common_Library/BadgePiratesSymbol_Library/BadgePiratesSymbolLibrary.kicad_sym")(options "")(descr ""))
+)
